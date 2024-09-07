@@ -1,0 +1,10 @@
+{  
+    "url": "https://www.chitai-gorod.ru", 
+    "cookie_policy": {  
+        "name": "cookie_policy",  
+        "value": "1"  
+    },  
+    "base_url": "https://web-gate.chitai-gorod.ru/api/v1",  
+    "base_url_v2": "https://web-gate.chitai-gorod.ru/api/v2",  
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjU1MjE0MzEsImlhdCI6MTcyNTM1MzQzMSwiaXNzIjoiL2FwaS92MS9hdXRoL2Fub255bW91cyIsInN1YiI6Ijg5YzZlM2E5MjliYTdmYzcyMjUzNmJkM2MwMTY2ZDkwNGYxYzBiNWNiOTZkYmZiMDFlNzcxYTdiYmQ0Yjk3N2UiLCJ0eXBlIjoxMH0.26Hx5Qgof7qSUbMzq2jPSV5tEbz2H3YvMjUWjgHfrAs"  
+}
